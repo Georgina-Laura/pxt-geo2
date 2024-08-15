@@ -1,0 +1,26 @@
+{
+    "name": "multiplicar",
+    "version": "2.0.0",
+    "description": "Esta es una extensión para realizar operaciones matemáticas como multiplicación, división, suma, y resta.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/en/multiplicar-strings.json",
+        "_locales/en/multiplicar-jsdoc-strings.json",
+        "_locales/es-ES/multiplicar-strings.json",
+        "_locales/es-ES/multiplicar-jsdoc-strings.json"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "6.0.17",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
