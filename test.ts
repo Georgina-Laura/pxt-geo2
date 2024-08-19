@@ -1,1 +1,1 @@
-let result = Multiplicar.multiply(4, 5);
+let result = geo2.geo2();
